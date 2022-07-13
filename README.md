@@ -5,6 +5,6 @@
 Para rodar em sua máquina, por gentileza, digite o comando abaixo:
 
 ```
-npn istall react
+node app.js
 ```
 Apenas um exercício do curso de Git e Github da Alura. 
